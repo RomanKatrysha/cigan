@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RomanKatrysha/cigan.git/static/css/main.cc7b66ad.css",
+    "main.js": "/RomanKatrysha/cigan.git/static/js/main.5ceb638b.js",
+    "static/js/453.520e1735.chunk.js": "/RomanKatrysha/cigan.git/static/js/453.520e1735.chunk.js",
+    "index.html": "/RomanKatrysha/cigan.git/index.html",
+    "main.cc7b66ad.css.map": "/RomanKatrysha/cigan.git/static/css/main.cc7b66ad.css.map",
+    "main.5ceb638b.js.map": "/RomanKatrysha/cigan.git/static/js/main.5ceb638b.js.map",
+    "453.520e1735.chunk.js.map": "/RomanKatrysha/cigan.git/static/js/453.520e1735.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc7b66ad.css",
+    "static/js/main.5ceb638b.js"
+  ]
+}
