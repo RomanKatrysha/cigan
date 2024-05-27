@@ -1,0 +1,41 @@
+.newPayment{
+    background-color: #61dafb;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 2px 2px 2px  gray;
+}
+.new-payment-control{
+
+}
+.newPayment form{
+    margin-left: 20px;
+
+}
+.newPayment button{
+    cursor: pointer;
+    padding: 1rem 2rem;
+    border-radius: 10px;
+    margin: 1rem;
+    background-color: blue;
+    border: 1px solid blue;
+    color: white;
+}
+.new-payment-control label{
+    display: block;
+    max-width: 100%;
+}
+.new-payment-control input{
+
+    border-radius: 5px;
+    padding: 5px;
+    border: 1px solid #61dafb;
+    box-shadow: 2px 2px 2px inset gray;
+    width: 20rem;
+    max-width: 100%;
+}
+.new-payment-button button:active ,
+.new-payment-button button:hover{
+    background-color: black;
+    border-color: black;
+}

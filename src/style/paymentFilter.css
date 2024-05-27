@@ -1,0 +1,15 @@
+.payment-filter {
+    display: grid;
+    grid-template-columns: 10rem 1fr;
+    margin: 20px;
+
+}
+.payment-filter select{
+    padding: 5px;
+    max-width: 8rem;
+    border-radius: 5px;
+    border: 1px solid #61dafb;
+}
+.payment-filter label{
+    padding: 5px;
+}

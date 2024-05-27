@@ -1,0 +1,30 @@
+.payments{
+    background-color: #61dafb;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px;
+    box-shadow: 2px 2px 2px  gray;
+}
+.payment{
+    margin: 20px;
+    background-color: darkorange;
+    display: grid;
+    grid-template-columns: 100px 1fr 1fr 1fr 1fr ;
+    grid-gap: 30px;
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+    box-shadow: 11px 11px 10px 1px gray ;
+
+}
+.item{
+    padding: 5px;
+    display: grid;
+    align-items: center;
+}
+.border-item{
+    border-radius: 10px;
+    border: 1px solid wheat;
+    background-color: blue;
+    justify-items: center;
+}
